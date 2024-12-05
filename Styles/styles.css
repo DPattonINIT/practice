@@ -10,9 +10,10 @@
     
 }
 .logo{
-    font-size: 5em;
+    font-size: 10vh;
     position: absolute;
-    top: 400px;
-    right: 400px;
     color: whitesmoke;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
